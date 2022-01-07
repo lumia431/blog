@@ -1,6 +1,6 @@
 module.exports = {
   title: "lumia666",
-  description: 'A simple and beautiful vuepress blog theme .',
+  description: 'xdp is my som .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
